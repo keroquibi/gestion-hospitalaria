@@ -61,7 +61,9 @@ A continuación se detalla la función dentro del sistema de cada uno de los usu
 ## Licencia
 
 Este proyecto está bajo la licencia [MIT](https://opensource.org/license/MIT).
+
 ***
+
 Para obtener más información sobre la aplciación y su funcionamiento interno, consulta nuestra [documentación técnica](/documentacion-tecnica.md).
 
 Organismos colaboradores:
